@@ -4,7 +4,7 @@ _Criptografia contra a vigilância global._
 
 # Contribuindo
 
-É importante para um site como privacytools.io que esteja sempre atualizado. Fique atento à atualizaçes dos programas listados aqui. Siga notícias recentes sobre programas recomendados. Estamos dando o nosso melhor para manter tudo atualizado, porém, não comos perfeitos e a internet muda muito rápido. Então, se você encontrar um erro, ou achar que algum programa não deveria estar listado aqui, ou se algum programa não atende tem as necessidades de privacidade, ou se algum plugin listado não for a melhor opção, etc.
+É importante para um site como privacytools.io que esteja sempre atualizado. Fique atento à atualizações dos programas listados aqui. Siga notícias recentes sobre programas recomendados. Estamos dando o nosso melhor para manter tudo atualizado, porém, não comos perfeitos e a internet muda muito rápido. Então, se você encontrar um erro, ou achar que algum programa não deveria estar listado aqui, ou se algum programa não atende tem as necessidades de privacidade, ou se algum plugin listado não for a melhor opção, etc.
 
 It's important for a website like privacytools.io to be up-to-date. Keep an eye on software updates of the applications listed here. Follow recent news about providers that are recommended. We try our best to keep up but we're not perfect and the internet is changing fast. So if you find an error, or you think a provider should not be listed here, or a qualified service provider is missing or a browser plugin is not the best choice anymore or anything else...
 
